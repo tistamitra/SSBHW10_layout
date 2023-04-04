@@ -1,0 +1,20 @@
+.header, .hero , .body ,.bar, .footer{
+	background-color:aqua ;
+	margin-bottom: 15px;
+}
+
+.box{
+	background-color: rgb(214, 156, 29);
+	font-size: 25px;
+	color: white;
+  margin: 15px 0;
+	min-height: 100px;
+}
+
+.other{
+
+	background-color: teal;
+}
+.one{
+	background-color: rgb(221, 123, 123);
+}
